@@ -1,0 +1,19 @@
+{
+  "name": "restapi-",
+  "version": "1.0.0",
+  "description": "\"# RESTAPI-\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toruki13/RESTAPI-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toruki13/RESTAPI-/issues"
+  },
+  "homepage": "https://github.com/toruki13/RESTAPI-#readme"
+}
